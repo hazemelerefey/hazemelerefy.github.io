@@ -1,11 +1,12 @@
 # hazemelerefy.github.io
 Hazem elerefy portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hazem elerefy | Business Intelligence Analyst</title>
+    <title>Hazem Khaled Ezzat Abdelhalim | Business Intelligence Analyst</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
@@ -54,7 +55,7 @@ Hazem elerefy portfolio
             <div class="flex justify-between items-center h-16">
                 <!-- Logo/Name -->
                 <div class="font-bold text-xl text-slate-800">
-                    Hazem <span class="text-blue-600">.</span>
+                    Hazem<span class="text-blue-600">.</span>
                 </div>
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex space-x-8">
@@ -91,14 +92,14 @@ Hazem elerefy portfolio
             <!-- PLACEHOLDER: Profile Photo -->
             <div class="mb-8">
                 <div class="w-32 h-32 sm:w-40 sm:h-40 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-purple-500 flex items-center justify-center text-white text-4xl sm:text-5xl font-bold shadow-2xl">
-                    
+                    HK
                 </div>
             </div>
             
             <!-- EDIT: Your full name -->
             <!-- PLACEHOLDER: Full Name -->
             <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4 tracking-tight">
-                Hazem elerefy
+                Hazem Khaled Ezzat Abdelhalim
             </h1>
             
             <!-- EDIT: Your professional title -->
@@ -163,7 +164,7 @@ Hazem elerefy portfolio
                     <div class="bg-gray-50 rounded-xl p-6 border border-gray-100 hover:shadow-md transition-shadow">
                         <!-- EDIT: Institution/Program name -->
                         <h3 class="text-lg sm:text-xl font-bold text-slate-800 mb-2">
-                            Digilians
+                            Digilians (DEPI) Initiative
                         </h3>
                         <!-- EDIT: Certificate/Degree details -->
                         <p class="text-blue-600 font-medium mb-2">
@@ -335,4 +336,4 @@ Hazem elerefy portfolio
                     <div class="aspect-video bg-gray-800 flex items-center justify-center">
                         <div class="text-center p-6">
                             <svg class="w-12 h-12 text-gray-500 mx-auto mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d
+                                <path stroke-linecap="
